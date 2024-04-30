@@ -1,0 +1,1 @@
+SCE is a hybrid Genetic Algorithm-Simplex non-convex global optimization algorithm that requires a small number of (expensive) function calls. It was proposed by Q. A. Duan. The IDL (Interactive Data Language) routine has an extra functionality: extinction, which stops search avenues that have a low probability of success. (non-convex optimization, IDL)
